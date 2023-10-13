@@ -1,0 +1,199 @@
+.box{
+max-width: 400px;
+margin:auto;
+position:relative;
+top: 50px;
+height: 80vh;
+box-shadow: 0px  0px 20px 0px;
+}
+
+.arrow{
+    top: 20px;
+position:absolute;
+width:25px;
+left: 10px;
+}
+
+
+.laptop{
+position: absolute;
+height: 100px;
+width: 100px;
+top: 50px;
+left: 150px;
+border-radius: 50%;
+}
+
+.laptop:hover{
+ box-shadow: 0 0 20px 0;
+ filter: grayscale(60%);
+ transform: rotate(-40deg);
+}
+
+
+.ironman{
+position: absolute;
+top: 150px;
+left: 105px;
+color: red
+font-family: Arial;
+
+}
+
+.selfmadeiron{
+position: absolute;
+top: 200px;
+left:120px;
+font-size: 15px;
+
+}
+span{
+    color:red;
+}
+
+.face{
+position: absolute;
+margin-right: 100px ;
+height: 40px;
+width: 40px;
+top: 250px;
+left: 100px;
+border-radius: 100%;
+box-shadow: 0 0 20px 0;
+}
+.tweet{
+    position: absolute;
+    margin-right: 10px;
+height: 40px;
+width: 40px;
+top: 250px;
+left: 150px;
+border-radius: 100%;
+box-shadow: 0 0 20px 0;
+}
+.insta{
+position: absolute;
+margin-left: 10px;
+height: 40px;
+width: 40px;
+top: 250px;
+left: 200px;
+border-radius: 100%;
+box-shadow: 0 0 20px 0;
+}
+.yt{
+    position: absolute;
+    margin-left: 20px;
+    height: 40px;
+    width: 40px;
+    top: 250px;
+    left: 250px;
+    border-radius: 100%;
+    box-shadow: 0 0 20px 0;
+
+}
+
+.icon{
+
+position: absolute;
+top: 20px;
+left: 380px;
+height: 20px;
+width: 20px;
+
+}
+
+.boxer{
+position: absolute;
+padding: 10px;
+top: 350px;
+border-top-left-right-radius: 100%;
+box-shadow: 0 0 20px 0;
+left:65px ;
+
+
+
+}
+.boxerr{
+
+    position: absolute;
+    padding: 10px;
+    top: 350px;
+    border-top-left-right-radius: 100%;
+    box-shadow: 0 0 20px 0;
+    left:220px ;   
+    color: red;
+}
+
+.heart{
+    position: absolute;
+    height: 50px;
+    padding-right: 50px;
+    padding-left: 20px;
+    top: 500px;
+    left: 20px;
+    border-top-left-right-radius: 100%;
+    box-shadow: 0 0 20px 0;
+    
+    
+    
+    }
+    
+    .ratings{
+    position: absolute;
+    height: 50px;
+    padding-right: 50px;
+    padding-left: 20px;
+    top: 500px;
+    left: 150px;
+    border-top-left-right-radius: 100%;
+    box-shadow: 0 0 20px 0;
+    margin: auto;
+    
+    
+    }
+    
+    .sending{
+    position: absolute;
+    padding-right: 48px;
+    padding-left: 20px;
+    height: 50px;
+    width: 45px;
+    top: 500px;
+    left: 280px;
+    border-top-left-right-radius: 100%;
+    box-shadow: 0 0 20px 0;
+    
+    }
+
+    .dillagi{
+        position: absolute;
+        top: 515px;
+        left: 91px;
+        display: flex;
+        font-size:20px ;
+        color: black;
+    }
+    .galiya{
+        display: flex;
+        position: absolute;
+        top: 515px;
+        left: 218px;
+        font-size:20px ;
+        color: black;
+    }
+    .bhejna{
+        display: flex;
+        position: absolute;
+        top: 515px;
+        left: 345px;
+        font-size:20px ;
+        color: black;
+    }
+.username{
+    top: 450px;
+    position: absolute;
+    left: 170px;
+    font-size: 10px;
+    font-family: arial;
+}
